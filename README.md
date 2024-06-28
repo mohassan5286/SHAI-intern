@@ -21,6 +21,8 @@ this repository contains my intern's tasks at SHAI company
 ## Task 4
 1. Summary to chapter 1 of hands-on machine learning book
 
+<br>
+
 ## Task 5
 1. Task of chapter 2 from hands-on machine learning book
    
