@@ -45,3 +45,8 @@ Diamond Price Prediction (Kaggle Competition) after modification
 
 ## Task 9
 Clicking on Online AD classifier using Logistic Regression and k-Nearest Neighbors and Random Forest Classifier and performing some Data analysis first
+
+<br>
+
+## Task 10
+Task of chapter 3 from hands-on machine learning book
