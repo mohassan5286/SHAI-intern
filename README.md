@@ -29,14 +29,19 @@ Task of chapter 2 from hands-on machine learning book
 <br>
 
 ## Task 6
-Diamond Price Prediction (Kaggle Competition)
+The rest of the task 5 (chapter 2 from hands-on machine learning book)
    
 <br>
 
 ## Task 7
-Diamond Price Prediction (Kaggle Competition) after modification 
+Diamond Price Prediction (Kaggle Competition)
    
 <br>
 
 ## Task 8
+Diamond Price Prediction (Kaggle Competition) after modification 
+   
+<br>
+
+## Task 9
 Clicking on Online AD classifier using Logistic Regression and k-Nearest Neighbors and Random Forest Classifier and performing some Data analysis first
