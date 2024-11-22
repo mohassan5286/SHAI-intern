@@ -1,5 +1,5 @@
 # SHAI-intern-Tasks
-this repository contains my intern's tasks at SHAI company
+this repository contains my intern's machine learning and data science tasks at SHAI company
 
 ## Task 1
 1. Notebook contains some NumPy tasks
