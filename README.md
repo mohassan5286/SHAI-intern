@@ -50,3 +50,8 @@ Clicking on Online AD classifier using Logistic Regression and k-Nearest Neighbo
 
 ## Task 10
 Task of chapter 3 from hands-on machine learning book
+
+<br>
+
+## Task 11
+Music Gener Classification (kaggle competition)
